@@ -40,9 +40,6 @@ I am a passionate and extremely committed software developer having a strong int
 - Built a TypeScript-based React web application that simplifies the table reservation process, increasing customer satisfaction by 10%
 - Implemented a customizable reservation system that allows users to select their preferred table, occasion, and time, along with a real-time table availability display
 
-## Currently working
-- I'm currently Working on developing a Real-Time AI-Powered News & Content Summarizer (Stay tuned for more updates!)
-
 ## Specialisations
 - Achieved Meta Frontend Developer specialisation certification
 - Achieved Google UX/UI Designer specialisation certification
